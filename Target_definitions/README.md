@@ -26,5 +26,5 @@
 | `MO`         | Mask Option                |
 | `ROMWIN`     | ROM Window                 |
 | `SFR`        | Special Function Registers |
-| `N`          | Not used region            |
+| `N`          | N/A - Not used region      |
 | `TEST`       | Test Data Area             |
