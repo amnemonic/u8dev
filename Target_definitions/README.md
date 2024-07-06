@@ -27,4 +27,4 @@
 | `ROMWIN`     | ROM Window                 |
 | `SFR`        | Special Function Registers |
 | `N`          | Not used region            |
-| `TEST`       | Test                       |
+| `TEST`       | Test Data Area             |
